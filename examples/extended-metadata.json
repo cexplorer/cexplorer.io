@@ -1,0 +1,31 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "cexplorer_io",
+            "telegram_handle": "cexplorer_io",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": ""
+        },
+        "company": {
+            "name": "Company Name",
+            "addr": "Street, Number",
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "...",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "company": "..."
+        }
+    }
+}
