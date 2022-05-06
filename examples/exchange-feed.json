@@ -1,0 +1,30 @@
+{
+    "cexplorer_io": {
+        "implementation-instructions": "if you provide us this file, we will display data from your exchange on cexplorer.io and cardanoassets.com; downloading every 3 minutes; you can use real-numbers. daily_volume = volume in ada, compounded for all available pairs total; timeframe = 24hours always, not today-volume; hourly_volume = volume in ada, compounded for all available pairs total; timeframe = 60 minutes always, not 00-59:59:59;;; send us link to this file on mail hello@cexplorer.io",
+        "network": "mainnet",
+        "updated": "2022-05-05T07:05:33.616Z",
+        "available_tokens": [
+            {
+                "id": "476039a0949cf0b22f6a800f56780184c44533887ca6e821007840c3.0184c44533887ca6e8",
+                "link": "https://your.exchange/link/to/asset/swap/with/ada",
+                "last_price_ada": 0.0002,
+                "daily_volume": 100,
+                "hourly_volume": 9,
+                "pairs": [
+                    "ada",
+                    "476039a0949cf0b22f6a800f56780184c44533887ca6e821007840c3.0184c44533887ca6e8"
+                ]
+            },
+            {
+                "id": "476039a0949cf0b22f6a800f56780184c44533887ca6e821007840c3.0184c44533887ca6e8",
+                "link": "https://your.exchange/link/to/asset/swap/with/ada",
+                "last_price_ada": 0.02021,
+                "daily_volume": 50000.354,
+                "hourly_volume": 1231.24,
+                "pairs": [
+                    "ada"
+                ]
+            }
+        ]
+    }
+}
