@@ -1,5 +1,5 @@
 {
-    "verification-string-here-for-pool-claim",
+    "verification":"verification-string-here-for-pool-claim",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
