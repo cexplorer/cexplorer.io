@@ -18,13 +18,28 @@ testnet - https://testnet.cexplorer.io
     policy https://cexplorer.io/policy/%policyHash%
     address https://cexplorer.io/address/%addr%
     stake key https://cexplorer.io/stake/%stakeKey%
+    script https://cexplorer.io/script/%scriptHash%
+    datum https://cexplorer.io/datum/%datumHash%
+    
 
 ## Static snapshots from our API
 
 We are refreshing snapshots every 3 hours. There are no limitations on querying (FUP)
 
-    pool list - https://js.cexplorer.io/api-static/pool/list.json
+Basics
+
+    global - https://js.cexplorer.io/api-static/basic/global.json
+
+Pools
+
+    list - https://js.cexplorer.io/api-static/pool/list.json
     detail - https://js.cexplorer.io/api-static/pool/%poolId%.json
+    banned - https://js.cexplorer.io/api-static/pool/banned.json
+
+DeFi
+
+    list (TOP) - https://js.cexplorer.io/api-static/defi/list.json
+
     
     
 ## Live API
