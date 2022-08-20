@@ -11,7 +11,16 @@ static-img storage: https://img.cexplorer.io/
 
 api server: https://api.cexplorer.io/
 
-## testnet
+## preprod
+url: https://preprod.cexplorer.io/
+
+static-js storage: https://preprod-js.cexplorer.io/
+
+static-img storage: https://img.cexplorer.io/
+
+api server: https://api.cexplorer.io/
+
+## testnet (legacy)
 url: https://testnet.cexplorer.io/
 
 static-js storage: https://testnet-js.cexplorer.io/
