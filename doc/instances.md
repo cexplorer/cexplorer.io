@@ -11,6 +11,15 @@ static-img storage: https://img.cexplorer.io/
 
 api server: https://api.cexplorer.io/
 
+## preview
+url: https://preview.cexplorer.io/
+
+static-js storage: https://preview-js.cexplorer.io/
+
+static-img storage: https://img.cexplorer.io/
+
+api server: https://api.cexplorer.io/
+
 ## preprod
 url: https://preprod.cexplorer.io/
 
