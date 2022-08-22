@@ -4,9 +4,8 @@
 Hello developers! Below are the data and outputs we have prepared for you. Please avoid scraping html outputs on website without written permission. Thank you for respecting this. 
 
 ## Instances
-mainnet - https://cexplorer.io
 
-testnet - https://testnet.cexplorer.io
+We are supporting various enviroments - https://github.com/cexplorer/cexplorer.io/blob/main/doc/instances.md
 
 ## Permalinks
 
