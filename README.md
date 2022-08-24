@@ -1,6 +1,12 @@
 # cexplorer.io
 most featured cardano explorer cexplorer.io (rebranded adapools.org)
 
+## Show your support
+
+You can support the development by delegating to [POOLS] pool or donation: https://cexplorer.io/search?query=%24cexplorer
+
+Thank you
+
 ## Signpost
 
 https://github.com/cexplorer/cexplorer.io/tree/main/doc
