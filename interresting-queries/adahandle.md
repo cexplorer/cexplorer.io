@@ -2,7 +2,8 @@ Quickly draws a table with all adahandles.
 
 handle | fingerprint | address_owner | account_owner
 
-```WITH handles AS (
+```
+WITH handles AS (
          SELECT encode(ma.name::bytea, 'escape'::text) AS name,
             ma.fingerprint,
             txo.address,
