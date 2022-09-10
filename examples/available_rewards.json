@@ -1,0 +1,35 @@
+{
+"data": {
+"available": [
+{
+"fingerprint": "asset1m4u92ke6820pkk07m8qmmguye02ewr8g6tezr0",
+"quantity": 100,
+"message": "optional message; rewarded because you are staking with SUNDAE"
+},
+{
+"fingerprint": "asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9",
+"quantity": 50000000,
+"message": "hosky dust free for everyone!"
+}
+],
+"terms": {
+"service": "Tosidrop",
+"url": "https://tosidrop.io",
+"claim_url": "https://tosidrop.io/claim/stake1xxxxxxxxxxxx",
+"fees": {
+"transaction": 200000,
+"service": 1000000
+}
+}
+},
+"implementation_info": {
+"description": "this part is only as info for you/devs; if you provide service where users can claim rewards (like tokens), you can provide api callback, where we can check if stake address X have available rewards.",
+"field_notes": {
+"amount": "amount available to claim, affected by decimals",
+"message": "message describing this reward; can be blank",
+"fees": "in lovelaces",
+"claim_url": "direct url where user can claim his reward"
+},
+"url_example": "your.api/checkreward/stake1xxxxxxxxxxx"
+}
+}
