@@ -32,8 +32,13 @@ Basics
 Pools
 
     list - https://js.cexplorer.io/api-static/pool/list.json
-    detail - https://js.cexplorer.io/api-static/pool/%poolId%.json
+    detail - https://js.cexplorer.io/api-static/pool/%poolIdBech%.json
     banned - https://js.cexplorer.io/api-static/pool/banned.json
+    
+Assets
+
+    detail - https://js.cexplorer.io/api-static/asset/detail/%fingerprint%.json
+
 
 DeFi
 
