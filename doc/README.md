@@ -7,5 +7,6 @@
 - Chain instances - https://github.com/cexplorer/cexplorer.io/blob/main/doc/instances.md
 - Notification callbacks - https://github.com/cexplorer/cexplorer.io/blob/main/doc/callbacks.md
 - Banlist - https://github.com/cexplorer/cexplorer.io/blob/main/doc/banlist.md
+- SPO Basics - https://github.com/cexplorer/cexplorer.io/blob/main/doc/spo_basics.md
 - Ada Handle - https://github.com/cexplorer/cexplorer.io/blob/main/doc/adahandle.md
 - Donations: https://github.com/cexplorer/cexplorer.io/blob/main/doc/donations.md
