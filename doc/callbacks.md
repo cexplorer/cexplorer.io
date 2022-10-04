@@ -27,6 +27,7 @@ Notification structure what your script will receive (POST RAW body - json-encod
 - block - new block
 - offrelay - relay is offline
 - onrelay - relay is back online
+- award - received new reward (like first 100 blocks)
 
 ### Compatibility
 
