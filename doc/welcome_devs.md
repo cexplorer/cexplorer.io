@@ -32,6 +32,7 @@ Basics
 Pools
 
     list - https://js.cexplorer.io/api-static/pool/list.json
+    hex2bech - https://js.cexplorer.io/api-static/pool/hex2bech.json
     detail - https://js.cexplorer.io/api-static/pool/%poolIdBech%.json
     banned - https://js.cexplorer.io/api-static/pool/banned.json
     
