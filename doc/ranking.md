@@ -16,7 +16,7 @@
 				(
 					(max($test['tax_ratio'],0.03)*100 * 10) + max($test['tax_fix'],340000000)/50000000
 					+ (1-$test['extended']) * 100 
-					+ (1-min(1,$test['user_id'])) * 20 
+					+ (1-min(1,$test['user_id'])) * 200 
 					+ ((20000000000-min(20000000000,$test['pledge']))/200000000)
 					+ ((max(0.95,($test['stake']/1000000)/($xd['circ']/$xd['epoch_param']['optimal_pool_count']))*100)-95)*50
 				)
