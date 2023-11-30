@@ -1,18 +1,12 @@
 {
     "verification":"verification-string-here-for-pool-claim",
-    "how-to-implement": "in your meta.json - define *extended* with url to this file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta c317bd2b0600bb718c,
+    "how-to-implement": "in your meta.json - define *extended* with url to this file - https://raw.githubusercontent.com/emanflyy/cexplorer.io/main/examples/meta ,
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
         "location": "London, England",
-        "social": {
-            "twitter_handle": "cexplorer_io",
-            "telegram_handle": "cexplorer_io",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "",
+        "social": : "",
+            "github_handle": "emanflyy665",
             "patreon_handle": "",
             "linkedin_handle": "",
             "ada_handle": "$cexplorer"
@@ -27,7 +21,7 @@
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": 
             "company": "..."
         }
     }
