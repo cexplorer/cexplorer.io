@@ -16,6 +16,7 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+5. Note: The bug causing the error when following the steps to reproduce has been fixed.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -33,6 +34,16 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+
+**Bug Fix**
+A clear and concise description of the bug fix.
+
+**Bug Fix Verification**
+Steps to verify the bug fix:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. Verify that the error is no longer present.
 
 **Additional context**
 Add any other context about the problem here.
