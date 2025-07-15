@@ -14,8 +14,8 @@
 ],
 "terms": {
 "service": "Tosidrop",
-"url": "https://tosidrop.io",
-"claim_url": "https://tosidrop.io/claim/stake1xxxxxxxxxxxx",
+"url": "https://tosidrop.me",
+"claim_url": "https://tosidrop.me/claim/stake1xxxxxxxxxxxx",
 "fees": {
 "transaction": 200000,
 "service": 1000000
